@@ -1,2 +1,2 @@
 # SnakeJS
-###Simple Snake Game written in Javascript using canvas.
+### Simple Snake Game written in Javascript using canvas.
