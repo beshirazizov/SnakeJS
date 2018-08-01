@@ -1,0 +1,2 @@
+# SnakeJS
+Simple Snake Game
